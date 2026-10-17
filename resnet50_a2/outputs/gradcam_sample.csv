@@ -1,0 +1,25 @@
+image_id,label,y
+pd/train/Bell_pepper leaf spot/e2Vlc.jpg,Pepper_bell_bacterial_spot,0
+pd/train/Bell_pepper leaf spot/0.jpg,Pepper_bell_bacterial_spot,0
+pd/train/Bell_pepper leaf/004-10.jpg,Pepper_bell_healthy,1
+pd/train/Bell_pepper leaf/28a593.jpg,Pepper_bell_healthy,1
+pd/train/Potato leaf early blight/potato-blight-phytophthora-infestans-showing-infected-leaf-top-surface-bmmrtd.jpg,Potato_early_blight,2
+pd/train/Potato leaf early blight/1024px-Phytophthora_infestans_potato_%27Dor%C3%A9%27%2C_aardappelziekte_Dor%C3%A9.jpg,Potato_early_blight,2
+pd/train/Potato leaf late blight/gcp_A-2_Late_Blight_of_potatoes_callout1.jpg,Potato_late_blight,3
+pd/train/Potato leaf late blight/lateblightlesions_1.jpg,Potato_late_blight,3
+pd/train/Tomato leaf bacterial spot/LyraEDISServlet.jpg,Tomato_bacterial_spot,4
+pd/train/Tomato leaf bacterial spot/38849847120_7ae02bd6c3_b.jpg,Tomato_bacterial_spot,4
+pd/train/Tomato Early blight leaf/tomatoblight.jpg,Tomato_early_blight,5
+pd/train/Tomato Early blight leaf/100_46341.jpg,Tomato_early_blight,5
+pd/train/Tomato leaf late blight/tomato-late-blight-conn-2015-137c.jpg,Tomato_late_blight,6
+pd/train/Tomato leaf late blight/dsc_4624s.jpg,Tomato_late_blight,6
+pd/train/Tomato mold leaf/Leaf-mold-caused-by-the-fungal-pathogen-Passalore-fulva-in-tomatoes.jpg,Tomato_leaf_mold,7
+pd/train/Tomato mold leaf/dscn6690.jpg,Tomato_leaf_mold,7
+pd/train/Tomato Septoria leaf spot/septoria-leaf-spot-treatment-leaf-spot-septoria-leaf-spot-soil-treatment-septoria-leaf-spot-tomato-organic-treatment.jpg,Tomato_septoria_leaf_spot,8
+pd/train/Tomato Septoria leaf spot/5336411888680960-600x272.jpeg.jpg,Tomato_septoria_leaf_spot,8
+pd/train/Tomato leaf yellow virus/2.--Virused-tomato-leaves-versus.jpg,Tomato_yellow_leaf_curl_virus,9
+pd/train/Tomato leaf yellow virus/role-of-whitefly-in-plant-virus-transmission-by-pmanikandan-25-638.jpg,Tomato_yellow_leaf_curl_virus,9
+pd/train/Tomato leaf mosaic virus/stock-photo-tomato-mosaic-virus-disease-on-tomato-559799668.jpg,Tomato_mosaic_virus,10
+pd/test/Tomato leaf mosaic virus/tmv-tomato-34.jpg,Tomato_mosaic_virus,10
+pd/test/Tomato leaf/Tomato59.JPG.jpg,Tomato_healthy,11
+pd/test/Tomato leaf/90e2c0.jpg,Tomato_healthy,11
