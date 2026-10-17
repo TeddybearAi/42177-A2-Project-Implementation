@@ -1,0 +1,7 @@
+# install torch/torchvision separately with the CUDA build for your GPU (see README)
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+pillow

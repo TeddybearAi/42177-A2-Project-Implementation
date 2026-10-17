@@ -1,0 +1,22 @@
+{
+  "_note": "Shared label space: PlantVillage (train/val/internal test) <-> PlantDoc (external test only). Only classes with clear semantic overlap are retained.",
+  "classes": [
+    {"label": "Pepper_bell_bacterial_spot", "plantvillage": "Pepper,_bell___Bacterial_spot",          "plantdoc": "Bell_pepper leaf spot"},
+    {"label": "Pepper_bell_healthy",        "plantvillage": "Pepper,_bell___healthy",                 "plantdoc": "Bell_pepper leaf"},
+    {"label": "Potato_early_blight",        "plantvillage": "Potato___Early_blight",                  "plantdoc": "Potato leaf early blight"},
+    {"label": "Potato_late_blight",         "plantvillage": "Potato___Late_blight",                   "plantdoc": "Potato leaf late blight"},
+    {"label": "Tomato_bacterial_spot",      "plantvillage": "Tomato___Bacterial_spot",                "plantdoc": "Tomato leaf bacterial spot"},
+    {"label": "Tomato_early_blight",        "plantvillage": "Tomato___Early_blight",                  "plantdoc": "Tomato Early blight leaf"},
+    {"label": "Tomato_late_blight",         "plantvillage": "Tomato___Late_blight",                   "plantdoc": "Tomato leaf late blight"},
+    {"label": "Tomato_leaf_mold",           "plantvillage": "Tomato___Leaf_Mold",                     "plantdoc": "Tomato mold leaf"},
+    {"label": "Tomato_septoria_leaf_spot",  "plantvillage": "Tomato___Septoria_leaf_spot",            "plantdoc": "Tomato Septoria leaf spot"},
+    {"label": "Tomato_yellow_leaf_curl_virus","plantvillage": "Tomato___Tomato_Yellow_Leaf_Curl_Virus","plantdoc": "Tomato leaf yellow virus"},
+    {"label": "Tomato_mosaic_virus",        "plantvillage": "Tomato___Tomato_mosaic_virus",           "plantdoc": "Tomato leaf mosaic virus"},
+    {"label": "Tomato_healthy",             "plantvillage": "Tomato___healthy",                       "plantdoc": "Tomato leaf"}
+  ],
+  "excluded": {
+    "Potato___healthy": "no PlantDoc counterpart",
+    "Tomato___Target_Spot": "no PlantDoc counterpart",
+    "Tomato___Spider_mites Two-spotted_spider_mite": "PlantDoc counterpart has only 2 images (train) / 0 (test) - too few for a meaningful external estimate"
+  }
+}

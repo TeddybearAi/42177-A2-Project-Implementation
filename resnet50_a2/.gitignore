@@ -1,0 +1,14 @@
+# Python environment and caches
+.venv/
+__pycache__/
+
+# Trained runs are too large for GitHub; keep only the summary tables and figures
+runs/*
+!runs/summary/
+*.pt
+
+# MATLAB: exported models and outputs (recreate with export_onnx.py / evaluate_in_matlab.m)
+matlab/*.onnx
+matlab/*_predictions_*.csv
+matlab/*_confusion_*.png
+matlab/matlab_summary_*.csv
