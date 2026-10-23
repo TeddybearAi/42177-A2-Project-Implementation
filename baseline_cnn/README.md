@@ -53,8 +53,16 @@ Finished seeds are skipped and an interrupted seed resumes from its last epoch.
 
 - **Status in the report.** This is the baseline CNN reported in the group report: Models › Baseline CNN, Table 2, Table A6 and Listings B30–B36.
 - **What is included.** The code, `requirements.txt` and `outputs/data/` (its split files). Also `outputs/runs/cnn_s<seed>/` (`history.csv` and `done.json` only), `outputs/results/` (summary and per-class tables, `numbers.json`), `outputs/figures/` and `outputs/logs/train.log`.
-- **What is not included.** The checkpoints (`best.pt`), `preds.npz` and the Grad-CAM image grids. They are too large for GitHub, so running `run_cnn.py` here retrains from scratch.
+- **What is not included.** The checkpoints (`best.pt`), `preds.npz` and the Grad-CAM image grids. They are too large for GitHub. Use the fresh-output procedure below to retrain from this archive.
 - **Where the comparison predictions are.** The group-format predictions on the 1,097 shared PlantDoc images, used in the cross-model comparison, are in `../cross_model_comparison/predictions/cnn_s42`–`cnn_s44`. Their export step is not part of this package.
 - **Two extra dependencies.**
   - `report_analysis.py` also reads the earlier pilot CNN's outputs (`WorkPlace/CNN/outputs/results_1097`), which are not in this repository.
   - Its PlantVillage split uses the same 17,392 images as the shared manifest but a different partition.
+
+### Re-running from this archive
+
+The tracked split CSVs contain the author's original absolute Windows dataset paths. Before running on another computer, set the dataset paths in the config file and set `CNN_OUT_DIR` to a **new, empty output directory outside this repository**. The scripts will then build fresh manifests for those paths and train new checkpoints, while leaving the archived evidence unchanged.
+
+The archived `outputs/runs/cnn_s42`–`cnn_s44` contain `done.json` but no `best.pt`. Using the archived output directory directly would skip training and then fail when evaluation tries to load the missing checkpoint. A fresh `CNN_OUT_DIR` avoids both the stale paths and these completion markers.
+
+`run_cnn.py` covers training and standard evaluation. `report_analysis.py` additionally needs the old pilot outputs described above and the Grad-CAM package (`pip install grad-cam`); those inputs are not supplied by this archive. The final group-format external predictions remain available in `cross_model_comparison/`.
