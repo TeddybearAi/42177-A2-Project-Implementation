@@ -1,0 +1,13 @@
+,Pepper_bell_bacterial_spot,Pepper_bell_healthy,Potato_early_blight,Potato_late_blight,Tomato_bacterial_spot,Tomato_early_blight,Tomato_late_blight,Tomato_leaf_mold,Tomato_septoria_leaf_spot,Tomato_yellow_leaf_curl_virus,Tomato_mosaic_virus,Tomato_healthy
+Pepper_bell_bacterial_spot,14,21,1,0,2,12,14,0,7,0,0,0
+Pepper_bell_healthy,0,31,1,0,1,8,17,0,1,0,0,2
+Potato_early_blight,3,11,25,12,1,28,25,1,9,0,0,1
+Potato_late_blight,1,9,5,12,0,11,63,0,3,0,0,1
+Tomato_bacterial_spot,7,12,4,0,7,37,21,0,21,0,0,1
+Tomato_early_blight,0,16,3,0,3,42,15,0,8,0,0,1
+Tomato_late_blight,2,5,0,2,1,20,76,2,2,1,0,0
+Tomato_leaf_mold,2,5,6,1,0,7,56,2,8,4,0,0
+Tomato_septoria_leaf_spot,5,18,4,0,10,54,7,0,52,0,0,1
+Tomato_yellow_leaf_curl_virus,1,4,1,0,0,14,10,0,12,30,0,4
+Tomato_mosaic_virus,0,5,0,0,0,14,18,1,2,12,0,2
+Tomato_healthy,0,10,2,0,0,10,37,0,0,0,0,4

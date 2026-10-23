@@ -1,0 +1,78 @@
+R5: small-16-imagenet-384, regime attention, gray-world 0, seed 44, batch 12, learning rate 0.0001, 4 epochs; trainable 7.10M of 21.82M parameters
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 2 workers.
+    Iteration    Epoch    TimeElapsed    LearnRate    TrainingLoss
+    _________    _____    ___________    _________    ____________
+            1        1       00:00:21       0.0001          6.6877
+          100        1       00:01:23       0.0001          2.0434
+          200        1       00:02:20       0.0001          1.2517
+          300        1       00:03:16       0.0001          1.7424
+          400        1       00:04:11       0.0001          1.1596
+          500        1       00:05:07       0.0001         0.33172
+          600        1       00:06:02       0.0001          0.5985
+          700        1       00:06:57       0.0001         0.67616
+          800        1       00:07:52       0.0001         0.25449
+          900        1       00:08:51       0.0001         0.30355
+         1000        1       00:10:41       0.0001         0.17894
+         1100        2       00:11:52       0.0001         0.27214
+         1200        2       00:12:46       0.0001          0.2464
+         1300        2       00:13:40       0.0001          0.2243
+         1400        2       00:14:34       0.0001         0.33472
+         1500        2       00:15:28       0.0001        0.058266
+         1600        2       00:16:43       0.0001         0.43244
+         1700        2       00:18:05       0.0001         0.73176
+         1800        2       00:19:26       0.0001         0.37215
+         1900        2       00:20:48       0.0001          1.0835
+         2000        2       00:22:12       0.0001         0.58051
+         2100        3       00:23:18       0.0001          1.3357
+         2200        3       00:24:12       0.0001          0.1667
+         2300        3       00:25:06       0.0001          0.2892
+         2400        3       00:26:03       0.0001          1.1963
+         2500        3       00:26:58       0.0001         0.24267
+         2600        3       00:28:10       0.0001          0.1539
+         2700        3       00:29:31       0.0001         0.57482
+         2800        3       00:30:52       0.0001        0.040582
+         2900        3       00:32:13       0.0001         0.95759
+         3000        3       00:33:34       0.0001         0.33658
+         3100        4       00:34:45       0.0001         0.25359
+         3200        4       00:35:39       0.0001         0.85295
+         3300        4       00:36:33       0.0001         0.60536
+         3400        4       00:37:27       0.0001         0.41551
+         3500        4       00:38:21       0.0001         0.11619
+         3600        4       00:39:26       0.0001         0.74799
+         3700        4       00:40:47       0.0001         0.57862
+         3800        4       00:42:09       0.0001         0.78158
+         3900        4       00:43:30       0.0001         0.31525
+         4000        4       00:44:50       0.0001          1.1119
+         4056        4       00:45:34       0.0001         0.42192
+Training stopped: Max epochs completed
+  epoch 1 (iteration 1014): val macro-F1 0.8013, accuracy 0.8371
+  epoch 2 (iteration 2028): val macro-F1 0.7998, accuracy 0.8367
+  epoch 3 (iteration 3042): val macro-F1 0.7864, accuracy 0.8149
+  epoch 4 (iteration 4056): val macro-F1 0.8528, accuracy 0.8758
+R5 done: selected epoch 4 (val F1 0.8528) | E1 macro-F1 0.8467 | E2 macro-F1 0.1415 [0.122, 0.161] | 46.1 min training
+
+ans = 
+
+  struct with fields:
+
+                       run: [11 struct]
+                     smoke: 0
+                     model: "small-16-imagenet-384"
+                 learnRate: 1.0000e-04
+             miniBatchSize: 12
+                 maxEpochs: 4
+    trainableParamsMillion: 7.1009
+                   nImages: [11 struct]
+             selectedEpoch: 4
+        selectedValF1Macro: 0.8528
+                        E1: [11 struct]
+                        E2: [11 struct]
+                gapF1Macro: 0.7051
+          retentionF1Macro: 0.1672
+              trainMinutes: 46.0697
+               evalMinutes: 3.1944
+                       gpu: "NVIDIA GeForce RTX 4060 Ti"
+                    matlab: "26.2.0.3386108 (R2026b)"
+                  finished: "2026-10-22 13:02:55 +1100"
+

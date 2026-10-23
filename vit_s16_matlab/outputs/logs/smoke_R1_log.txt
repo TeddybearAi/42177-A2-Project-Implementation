@@ -1,0 +1,11 @@
+smoke_R1: small-16-imagenet-384, regime attention, gray-world 0, seed 42, batch 12, 2 epochs; trainable 7.10M of 21.82M parameters
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 6 workers.
+    Iteration    Epoch    TimeElapsed    LearnRate    TrainingLoss
+    _________    _____    ___________    _________    ____________
+            1        1       00:01:31       0.0001          7.5793
+           20        2       00:01:58       0.0001           2.422
+Training stopped: Max epochs completed
+  epoch 1 (iteration 10): val macro-F1 0.0128, accuracy 0.0625
+  epoch 2 (iteration 20): val macro-F1 0.0506, accuracy 0.1458
+smoke_R1 done: selected epoch 2 (val F1 0.0506) | E1 macro-F1 0.0565 | E2 macro-F1 0.0575 [0.024, 0.091] | 2.2 min training

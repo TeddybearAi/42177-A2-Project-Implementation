@@ -1,0 +1,24 @@
+{
+  "manifest_sha256": "eda52430a1468ec4ff12d2db41a49ce4671667b1bf9e8fafafe963897bf972e0",
+  "mapping_sha256": "24a0933839d1416311d6bc82139b9d5bba94412e319a640486cf7aadf0586fc7",
+  "batch": 64,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "runs": {
+    "42": {
+      "checkpoint_sha256": "f2d620434f5315682f0f80e491567a4731c2751ee21c7a8541880fbf560330a4",
+      "config_sha256": "320aa90d4d2b527b56ab63c66978b847145c84ac1741f4b63fd67cbb2e64a534"
+    },
+    "43": {
+      "checkpoint_sha256": "33965338453ed8d6fd703255bee65a7f79be2fa2dcff476d0731b9f5faaa6019",
+      "config_sha256": "40c8e4a637f9cc9a26e3d64c9c195c6730d82390e8fb5f5efd98cdd95f4742c4"
+    },
+    "44": {
+      "checkpoint_sha256": "5100c28c5359a7651b5f3761c2ead81199a97d725d3be0033f41db3bcbc7c577",
+      "config_sha256": "e223537f32246602a6cb5e6ad80f3b2080d2c26f66f5c138d516972fc802ef86"
+    }
+  }
+}

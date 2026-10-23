@@ -1,0 +1,2 @@
+model,params_M,GMACs,GFLOPs,gpu_latency_ms
+MobileNetV2,2.239244,0.32622208,0.65244416,8.527522500007763

@@ -1,0 +1,75 @@
+{
+  "status": "passed",
+  "checks": [
+    "shared manifest and mapping identical",
+    "three training seeds and batch64",
+    "checkpoint/config hashes match pre-external lock",
+    "no PlantDoc in training according to run record",
+    "all prediction IDs/truth match shared manifest",
+    "probabilities finite and normalized; argmax matches predictions",
+    "macro-F1 and accuracy independently recalculated and match saved results",
+    "all six confusion matrices independently reproduced",
+    "three external 1000-resample bootstrap intervals independently reproduced",
+    "submission notebook repair integrated; measured outputs retained; no error cells"
+  ],
+  "results": [
+    {
+      "seed": 42,
+      "set": "internal",
+      "accuracy": 0.9984668455346877,
+      "macro_f1": 0.998508115805504
+    },
+    {
+      "seed": 42,
+      "set": "external",
+      "accuracy": 0.2689152233363719,
+      "macro_f1": 0.2265087417880448
+    },
+    {
+      "seed": 43,
+      "set": "internal",
+      "accuracy": 0.9973169796857033,
+      "macro_f1": 0.9965867602362977
+    },
+    {
+      "seed": 43,
+      "set": "external",
+      "accuracy": 0.2780309936189608,
+      "macro_f1": 0.2294464232807654
+    },
+    {
+      "seed": 44,
+      "set": "internal",
+      "accuracy": 0.9980835569183595,
+      "macro_f1": 0.9975308756026333
+    },
+    {
+      "seed": 44,
+      "set": "external",
+      "accuracy": 0.2917046490428441,
+      "macro_f1": 0.24583740041453006
+    }
+  ],
+  "mean_sd": {
+    "external": {
+      "accuracy": {
+        "mean": 0.27955028866605897,
+        "sd": 0.011470426063917879
+      },
+      "macro_f1": {
+        "mean": 0.23393085516111342,
+        "sd": 0.010415462449738466
+      }
+    },
+    "internal": {
+      "accuracy": {
+        "mean": 0.9979557940462502,
+        "sd": 0.000585483032446155
+      },
+      "macro_f1": {
+        "mean": 0.9975419172148117,
+        "sd": 0.0009607253737305469
+      }
+    }
+  }
+}
