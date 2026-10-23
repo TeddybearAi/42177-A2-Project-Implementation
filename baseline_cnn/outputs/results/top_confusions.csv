@@ -1,0 +1,11 @@
+true,predicted,row_share,true_images
+Potato_Late_blight,Tomato_Late_blight,0.3523809523809524,105
+Tomato_Septoria,Tomato_Bacterial_spot,0.32450331125827814,151
+Tomato_healthy,Pepper_healthy,0.30158730158730157,63
+Tomato_Leaf_Mold,Tomato_Late_blight,0.2857142857142857,91
+Tomato_Bacterial_spot,Pepper_Bacterial_spot,0.2636363636363636,110
+Tomato_Early_blight,Tomato_Bacterial_spot,0.26136363636363635,88
+Pepper_healthy,Pepper_Bacterial_spot,0.2459016393442623,61
+Tomato_healthy,Tomato_Late_blight,0.23809523809523808,63
+Tomato_Leaf_Mold,Pepper_Bacterial_spot,0.23076923076923078,91
+Tomato_Septoria,Tomato_Early_blight,0.2185430463576159,151

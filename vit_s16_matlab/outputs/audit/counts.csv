@@ -1,0 +1,13 @@
+Row,train,val,test,external,total
+Pepper_bell_bacterial_spot,698,150,149,71,1068
+Pepper_bell_healthy,1035,222,221,61,1539
+Potato_early_blight,700,150,150,116,1116
+Potato_late_blight,700,150,150,105,1105
+Tomato_bacterial_spot,1489,319,319,110,2237
+Tomato_early_blight,700,150,150,88,1088
+Tomato_late_blight,1331,285,285,111,2012
+Tomato_leaf_mold,666,143,143,91,1043
+Tomato_septoria_leaf_spot,1240,265,266,151,1922
+Tomato_yellow_leaf_curl_virus,2245,481,482,76,3284
+Tomato_mosaic_virus,261,56,56,54,427
+Tomato_healthy,1109,238,238,63,1648

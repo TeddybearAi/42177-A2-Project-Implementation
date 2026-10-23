@@ -1,0 +1,755 @@
+Auditing 18489 manifest rows...
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 112 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+  2000 / 18489
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing .  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing .  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing GPSLatitude.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing GPSLongitude.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing GPSAltitude.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing GPSImgDirection.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+  4000 / 18489
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing .  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+  6000 / 18489
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+  8000 / 18489
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+  10000 / 18489
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Tag  has datatype format 'TIFF_NOTYPE' and cannot be processed.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 54 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Zero count for DeviceSettingDescription tag.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+  12000 / 18489
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing BrightnessValue.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 874 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 38 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Encountered a problem while processing Exif metadata:  'SWITCH expression must be a scalar or a character vector.'] 
+[> In matlab.io.internal.imagesci.imjpginfo (line 57)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing GPSLatitude.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing GPSLongitude.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing GPSAltitude.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing GPSImgDirection.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing XResolution.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 99)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Division by zero when processing YResolution.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 99)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 874 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 874 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+  14000 / 18489
+  16000 / 18489
+[Warning: Division by zero when processing DigitalZoomRatio.  The value has been set to NaN.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 112 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+  18000 / 18489
+[Warning: The image file directory at offset position 20 has zero entries and has been ignored.] 
+[> In matlab.io.internal.imagesci.imjpginfo>incorporate_exif_metadata (line 72)
+In matlab.io.internal.imagesci.imjpginfo (line 55)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+[Warning: Unable to read XMP metadata due to noncompliance with XMP specifications.] 
+[> In matlab.io.internal.imagesci.imjpgbaselineinfo (line 171)
+In matlab.io.internal.imagesci.imjpginfo (line 38)
+In imjpginfo (line 24)
+In imfinfo (line 165)
+In auditDataset (line 50)] 
+Audit written to D:\UTS\IPPR\42177_A2_Louis_ViT\outputs\audit (0 problem rows)
+elapsed 6.3 min

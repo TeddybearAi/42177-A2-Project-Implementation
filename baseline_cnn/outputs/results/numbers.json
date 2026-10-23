@@ -1,0 +1,39 @@
+{
+  "representative_seed": 43,
+  "random_macro_f1": 0.08152961870940438,
+  "new_minus_old": {
+    "diff": -0.002150381802717566,
+    "ci": [
+      -0.012182167934987732,
+      0.007672700952094247
+    ]
+  },
+  "training": {
+    "42": {
+      "epochs": 30,
+      "best_epoch": 27,
+      "best_val_macro_f1": 0.9891467564398914,
+      "minutes": 18.628925184408825,
+      "first_epoch_above_095": 12
+    },
+    "43": {
+      "epochs": 30,
+      "best_epoch": 28,
+      "best_val_macro_f1": 0.989144378333514,
+      "minutes": 18.36451304356257,
+      "first_epoch_above_095": 13
+    },
+    "44": {
+      "epochs": 30,
+      "best_epoch": 28,
+      "best_val_macro_f1": 0.9901651772142144,
+      "minutes": 18.37325250307719,
+      "first_epoch_above_095": 12
+    }
+  },
+  "parameters": 1176300,
+  "latency_ms_cpu": 11.750256500017713,
+  "latency_ms_cuda": 1.0749380000197561,
+  "gradcam_plantdoc_correct": 3,
+  "gradcam_plantvillage_correct": 23
+}

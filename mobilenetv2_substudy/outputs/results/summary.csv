@@ -1,0 +1,2 @@
+Seeds,Val macro-F1,E1 accuracy,E1 macro-F1,E2 accuracy,E2 macro-F1,E2 95% CI (mean),ΔF1 (E1−E2),Retention
+3,0.994 ± 0.001,0.991 ± 0.000,0.992 ± 0.000,0.250 ± 0.010,0.197 ± 0.009,"[0.174, 0.220]",0.795 ± 0.010,0.199 ± 0.009

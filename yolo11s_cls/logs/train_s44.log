@@ -1,0 +1,75 @@
+{'epoch': 1, 'stage': 'warmup', 'train_loss': 0.8937544450592246, 'val_macro_f1': 0.9517865292782459, 'val_accuracy': 0.9559218091222691, 'epoch_seconds': 139.24589068000023}
+{'epoch': 2, 'stage': 'warmup', 'train_loss': 0.7524049076929025, 'val_macro_f1': 0.9509694348878089, 'val_accuracy': 0.9566883863549253, 'epoch_seconds': 138.66963694199967}
+{'epoch': 3, 'stage': 'finetune', 'train_loss': 0.767672797181208, 'val_macro_f1': 0.9818205395525204, 'val_accuracy': 0.9819854350325795, 'epoch_seconds': 158.41234431700013}
+{'epoch': 4, 'stage': 'finetune', 'train_loss': 0.6487985567954916, 'val_macro_f1': 0.9799830590496468, 'val_accuracy': 0.9816021464162514, 'epoch_seconds': 159.52777507700011}
+{'epoch': 5, 'stage': 'finetune', 'train_loss': 0.6143933597683456, 'val_macro_f1': 0.9915162041532658, 'val_accuracy': 0.9927175162897662, 'epoch_seconds': 158.22951398200075}
+{'epoch': 6, 'stage': 'finetune', 'train_loss': 0.6007721639529461, 'val_macro_f1': 0.993687348798979, 'val_accuracy': 0.9938673821387505, 'epoch_seconds': 158.79342112500035}
+{'epoch': 7, 'stage': 'finetune', 'train_loss': 0.5836741006568243, 'val_macro_f1': 0.994486700845174, 'val_accuracy': 0.9950172479877347, 'epoch_seconds': 159.09726762299942}
+{'epoch': 8, 'stage': 'finetune', 'train_loss': 0.5776645729493601, 'val_macro_f1': 0.9951507748052943, 'val_accuracy': 0.9954005366040629, 'epoch_seconds': 158.39052632899984}
+{'epoch': 9, 'stage': 'finetune', 'train_loss': 0.5702569059340927, 'val_macro_f1': 0.9962953031737124, 'val_accuracy': 0.9961671138367191, 'epoch_seconds': 159.76823257099932}
+{'epoch': 10, 'stage': 'finetune', 'train_loss': 0.5674991329961444, 'val_macro_f1': 0.9962335349098314, 'val_accuracy': 0.9965504024530472, 'epoch_seconds': 159.9769127290001}
+{'epoch': 11, 'stage': 'finetune', 'train_loss': 0.5617340559322532, 'val_macro_f1': 0.9972872947788027, 'val_accuracy': 0.9973169796857033, 'epoch_seconds': 159.46051671799978}
+{'epoch': 12, 'stage': 'finetune', 'train_loss': 0.5576979940075073, 'val_macro_f1': 0.9972600736318444, 'val_accuracy': 0.9969336910693752, 'epoch_seconds': 160.94157992100008}
+{'epoch': 13, 'stage': 'finetune', 'train_loss': 0.5538777622934513, 'val_macro_f1': 0.9967497548362956, 'val_accuracy': 0.9969336910693752, 'epoch_seconds': 161.5185515000012}
+{'epoch': 14, 'stage': 'finetune', 'train_loss': 0.5531508813492668, 'val_macro_f1': 0.9992550148370437, 'val_accuracy': 0.9992334227673438, 'epoch_seconds': 163.7473560870003}
+{'epoch': 15, 'stage': 'finetune', 'train_loss': 0.5498522114279785, 'val_macro_f1': 0.9986132406261355, 'val_accuracy': 0.9984668455346877, 'epoch_seconds': 164.9348417989986}
+{'epoch': 16, 'stage': 'finetune', 'train_loss': 0.5490231255269196, 'val_macro_f1': 0.9975526180626608, 'val_accuracy': 0.9973169796857033, 'epoch_seconds': 159.32110335400102}
+{'epoch': 17, 'stage': 'finetune', 'train_loss': 0.5467379794481922, 'val_macro_f1': 0.998957057209296, 'val_accuracy': 0.9984668455346877, 'epoch_seconds': 162.6763341249989}
+{'epoch': 18, 'stage': 'finetune', 'train_loss': 0.5463689825933165, 'val_macro_f1': 0.9981428944500762, 'val_accuracy': 0.9984668455346877, 'epoch_seconds': 161.99786630000017}
+{'epoch': 19, 'stage': 'finetune', 'train_loss': 0.546487857462327, 'val_macro_f1': 0.9994617138953138, 'val_accuracy': 0.9992334227673438, 'epoch_seconds': 164.63236734099883}
+{'epoch': 20, 'stage': 'finetune', 'train_loss': 0.5446355184036776, 'val_macro_f1': 0.9981428944500762, 'val_accuracy': 0.9984668455346877, 'epoch_seconds': 161.32163742600096}
+{'epoch': 21, 'stage': 'finetune', 'train_loss': 0.5439268316720455, 'val_macro_f1': 0.9988209870592658, 'val_accuracy': 0.9984668455346877, 'epoch_seconds': 161.18285315199864}
+{'epoch': 22, 'stage': 'finetune', 'train_loss': 0.5443981912348763, 'val_macro_f1': 0.9986153761783965, 'val_accuracy': 0.9984668455346877, 'epoch_seconds': 158.71638543100016}
+{
+  "pretrained_weights_sha256": "e2b605d1c8c212b434a75a32759a6f7adf1d2b29c35f76bdccd4c794cb653cf2",
+  "input_shape": [
+    4,
+    3,
+    224,
+    224
+  ],
+  "input_range": [
+    0.0,
+    0.9647058844566345
+  ],
+  "pretrained_output_shape": [
+    4,
+    1000
+  ],
+  "new_head_shape": [
+    4,
+    12
+  ],
+  "head_to_team_index": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    11,
+    6,
+    7,
+    10,
+    8,
+    9
+  ],
+  "forward_batch_seconds": [
+    0.00819521999983408,
+    0.008204323999962071,
+    0.008227489000091737,
+    0.00819910100017296,
+    0.008190833999833558
+  ],
+  "timing_note": "5 warm measurements, forward only; input tensors already prepared",
+  "api_tensor_max_abs_difference": 0.0,
+  "train_count": 12174,
+  "val_count": 2609,
+  "plantdoc_images_opened": 0,
+  "trainable_parameters": 5458380,
+  "backbone_updated": true,
+  "training_seconds": 3491.686242882999,
+  "epochs_completed": 22,
+  "best_pv_val_macro_f1": 0.9994617138953138,
+  "limitation": "PV val selected model; no external evaluation yet"
+}

@@ -1,0 +1,22 @@
+# Python and editor caches
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Trained weights and large prediction arrays are not kept in the repository
+*.pt
+*.pth
+*.npz
+*.onnx
+
+# Generated when cross_model.py is re-run (committed copies are in cross_model_comparison/results/)
+cross_model_comparison/predictions/summary/
+
+# Local dataset copies and run folders created by the scripts
+/data/
+yolo11s_cls/data/
+yolo11s_cls/runs/
+vit_s16_matlab/shared/
+vit_s16_matlab/outputs/runs/

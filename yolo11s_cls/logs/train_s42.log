@@ -1,0 +1,78 @@
+Creating new Ultralytics Settings v0.0.6 file ✅ 
+View Ultralytics Settings with 'yolo settings' or at '/content/42177_submission_work/config/Ultralytics/settings.json'
+Update Settings with 'yolo settings key=value', i.e. 'yolo settings runs_dir=path/to/dir'. For help see https://docs.ultralytics.com/quickstart/#ultralytics-settings.
+{'epoch': 1, 'stage': 'warmup', 'train_loss': 0.8975740074915547, 'val_macro_f1': 0.9450066693977036, 'val_accuracy': 0.9501724798773477, 'epoch_seconds': 144.80375515299988}
+{'epoch': 2, 'stage': 'warmup', 'train_loss': 0.7504014501004496, 'val_macro_f1': 0.9555941769507802, 'val_accuracy': 0.9589881180528939, 'epoch_seconds': 142.62460442200017}
+{'epoch': 3, 'stage': 'finetune', 'train_loss': 0.77495613567383, 'val_macro_f1': 0.9819073027371701, 'val_accuracy': 0.9816021464162514, 'epoch_seconds': 158.45010124099986}
+{'epoch': 4, 'stage': 'finetune', 'train_loss': 0.6539644931795093, 'val_macro_f1': 0.9884370780770948, 'val_accuracy': 0.9888846301264852, 'epoch_seconds': 162.42465702899995}
+{'epoch': 5, 'stage': 'finetune', 'train_loss': 0.6169697663575259, 'val_macro_f1': 0.9897135893105378, 'val_accuracy': 0.9915676504407819, 'epoch_seconds': 164.0183030300002}
+{'epoch': 6, 'stage': 'finetune', 'train_loss': 0.6013383696442346, 'val_macro_f1': 0.9925642442317871, 'val_accuracy': 0.9938673821387505, 'epoch_seconds': 165.22669505299973}
+{'epoch': 7, 'stage': 'finetune', 'train_loss': 0.5870186312750523, 'val_macro_f1': 0.9949119880286909, 'val_accuracy': 0.9946339593714066, 'epoch_seconds': 161.32354918500005}
+{'epoch': 8, 'stage': 'finetune', 'train_loss': 0.5782496481864582, 'val_macro_f1': 0.9922775158677125, 'val_accuracy': 0.9938673821387505, 'epoch_seconds': 159.77721934800002}
+{'epoch': 9, 'stage': 'finetune', 'train_loss': 0.5703045738356365, 'val_macro_f1': 0.9963281705593571, 'val_accuracy': 0.9969336910693752, 'epoch_seconds': 161.95549568200022}
+{'epoch': 10, 'stage': 'finetune', 'train_loss': 0.5646808275609293, 'val_macro_f1': 0.9970804233746429, 'val_accuracy': 0.9969336910693752, 'epoch_seconds': 157.85510756700023}
+{'epoch': 11, 'stage': 'finetune', 'train_loss': 0.5631801209387882, 'val_macro_f1': 0.9973753633764361, 'val_accuracy': 0.9973169796857033, 'epoch_seconds': 162.44927845500024}
+{'epoch': 12, 'stage': 'finetune', 'train_loss': 0.5581145230744965, 'val_macro_f1': 0.9973480257127788, 'val_accuracy': 0.9973169796857033, 'epoch_seconds': 160.07363482799974}
+{'epoch': 13, 'stage': 'finetune', 'train_loss': 0.5543564339860704, 'val_macro_f1': 0.9981428944500762, 'val_accuracy': 0.9984668455346877, 'epoch_seconds': 159.16322964000028}
+{'epoch': 14, 'stage': 'finetune', 'train_loss': 0.5542203535562825, 'val_macro_f1': 0.9990530025304444, 'val_accuracy': 0.9988501341510158, 'epoch_seconds': 161.76197382400005}
+{'epoch': 15, 'stage': 'finetune', 'train_loss': 0.552035100700547, 'val_macro_f1': 0.9991739563800888, 'val_accuracy': 0.9988501341510158, 'epoch_seconds': 164.84590446100037}
+{'epoch': 16, 'stage': 'finetune', 'train_loss': 0.5499670450981564, 'val_macro_f1': 0.9992550148370437, 'val_accuracy': 0.9992334227673438, 'epoch_seconds': 162.74933914099984}
+{'epoch': 17, 'stage': 'finetune', 'train_loss': 0.549460028121482, 'val_macro_f1': 0.9990378875076066, 'val_accuracy': 0.9988501341510158, 'epoch_seconds': 164.5818111110002}
+{'epoch': 18, 'stage': 'finetune', 'train_loss': 0.5469455022088839, 'val_macro_f1': 0.9990378875076066, 'val_accuracy': 0.9988501341510158, 'epoch_seconds': 161.9720473340003}
+{'epoch': 19, 'stage': 'finetune', 'train_loss': 0.5461056389224261, 'val_macro_f1': 0.9990378875076066, 'val_accuracy': 0.9988501341510158, 'epoch_seconds': 160.45491409500028}
+{'epoch': 20, 'stage': 'finetune', 'train_loss': 0.5451327803022504, 'val_macro_f1': 0.9994617138953138, 'val_accuracy': 0.9992334227673438, 'epoch_seconds': 164.55595257799996}
+{'epoch': 21, 'stage': 'finetune', 'train_loss': 0.5447463512577329, 'val_macro_f1': 0.9994617138953138, 'val_accuracy': 0.9992334227673438, 'epoch_seconds': 160.52097250500083}
+{'epoch': 22, 'stage': 'finetune', 'train_loss': 0.5452834032959434, 'val_macro_f1': 0.9994617138953138, 'val_accuracy': 0.9992334227673438, 'epoch_seconds': 162.78146629599996}
+{
+  "pretrained_weights_sha256": "e2b605d1c8c212b434a75a32759a6f7adf1d2b29c35f76bdccd4c794cb653cf2",
+  "input_shape": [
+    4,
+    3,
+    224,
+    224
+  ],
+  "input_range": [
+    0.0,
+    0.9647058844566345
+  ],
+  "pretrained_output_shape": [
+    4,
+    1000
+  ],
+  "new_head_shape": [
+    4,
+    12
+  ],
+  "head_to_team_index": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    11,
+    6,
+    7,
+    10,
+    8,
+    9
+  ],
+  "forward_batch_seconds": [
+    0.00838328999998339,
+    0.008377959999961604,
+    0.008374751000019387,
+    0.008362457999965045,
+    0.008384646999957113
+  ],
+  "timing_note": "5 warm measurements, forward only; input tensors already prepared",
+  "api_tensor_max_abs_difference": 0.0,
+  "train_count": 12174,
+  "val_count": 2609,
+  "plantdoc_images_opened": 0,
+  "trainable_parameters": 5458380,
+  "backbone_updated": true,
+  "training_seconds": 3525.917187719,
+  "epochs_completed": 22,
+  "best_pv_val_macro_f1": 0.9994617138953138,
+  "limitation": "PV val selected model; no external evaluation yet"
+}

@@ -1,0 +1,153 @@
+{
+  "external_images": 1097,
+  "md5_matches": 1097,
+  "cross_dataset_exact_overlaps": 0,
+  "archive_prefix": "PlantDoc-Dataset-master/",
+  "filename_mappings": 36,
+  "renamed_files": [
+    {
+      "image_id": "pd/train/Bell_pepper leaf spot/file.php_id=5336&t=1.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf spot/file.php?id=5336&t=1.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf spot/image_1500x1500%253E.jpeg_1467983528.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf spot/image_1500x1500%253E.jpeg?1467983528.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf spot/image_1500x1500%253E.jpeg_1472603885.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf spot/image_1500x1500%253E.jpeg?1472603885.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf spot/image_300x300%2523.jpeg_1472603885.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf spot/image_300x300%2523.jpeg?1472603885.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf spot/image_300x300%2523.jpeg_1472603886.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf spot/image_300x300%2523.jpeg?1472603886.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf spot/image_original.jpeg_1472603885.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf spot/image_original.jpeg?1472603885.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf spot/image_original.jpeg_1472603886.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf spot/image_original.jpeg?1472603886.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf spot/IMG_6029-001_1500x1500%253E.JPG_1403119544.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf spot/IMG_6029-001_1500x1500%253E.JPG?1403119544.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf/DSCN5835_original.JPG_1472909566.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf/DSCN5835_original.JPG?1472909566.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf/file.php_id=18598&t=1.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf/file.php?id=18598&t=1.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf/image_1500x1500%253E.jpeg_1472959493.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf/image_1500x1500%253E.jpeg?1472959493.jpg"
+    },
+    {
+      "image_id": "pd/train/Bell_pepper leaf/IMG_3891.JPG_1492073147.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Bell_pepper leaf/IMG_3891.JPG?1492073147.jpg"
+    },
+    {
+      "image_id": "pd/test/Bell_pepper leaf/IMG_1629.JPG_1507122477.jpg",
+      "zip_member": "PlantDoc-Dataset-master/test/Bell_pepper leaf/IMG_1629.JPG?1507122477.jpg"
+    },
+    {
+      "image_id": "pd/train/Potato leaf early blight/1421_0.jpeg_itok=FMtmgePj.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Potato leaf early blight/1421_0.jpeg?itok=FMtmgePj.jpg"
+    },
+    {
+      "image_id": "pd/train/Potato leaf early blight/Early%20Blight%20-%20Potatoes.ashx_w=350.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Potato leaf early blight/Early%20Blight%20-%20Potatoes.ashx?w=350.jpg"
+    },
+    {
+      "image_id": "pd/test/Potato leaf late blight/1421_0.jpeg_itok=FMtmgePj.jpg",
+      "zip_member": "PlantDoc-Dataset-master/test/Potato leaf late blight/1421_0.jpeg?itok=FMtmgePj.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato leaf bacterial spot/250_cb=20100819110637.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato leaf bacterial spot/250?cb=20100819110637.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato leaf bacterial spot/image3_original.JPG_1472755422.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato leaf bacterial spot/image3_original.JPG?1472755422.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato leaf bacterial spot/image5_300x300%2523.JPG_1472755422.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato leaf bacterial spot/image5_300x300%2523.JPG?1472755422.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato leaf bacterial spot/latest_cb=20100808132744.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato leaf bacterial spot/latest?cb=20100808132744.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato leaf bacterial spot/Tomato2_original.JPG_1472597932.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato leaf bacterial spot/Tomato2_original.JPG?1472597932.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato Early blight leaf/1058_0.jpeg_itok=OQkdtxgv.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato Early blight leaf/1058_0.jpeg?itok=OQkdtxgv.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato Early blight leaf/early%20blight%20%283%29.jpg_itok=UMYWI0xr.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato Early blight leaf/early%20blight%20%283%29.jpg?itok=UMYWI0xr.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato Early blight leaf/early%20blight%20%284%29.jpg_itok=gfK5C193.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato Early blight leaf/early%20blight%20%284%29.jpg?itok=gfK5C193.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato Early blight leaf/Early_blight_1.jpg_1376579808.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato Early blight leaf/Early_blight_1.jpg?1376579808.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato leaf late blight/tomato-late-blight-sporulation-on-a-tomato-leaflet-picture-id81781370_s=612x612.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato leaf late blight/tomato-late-blight-sporulation-on-a-tomato-leaflet-picture-id81781370?s=612x612.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato mold leaf/ArticleImage.aspx_imgid=4987.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato mold leaf/ArticleImage.aspx?imgid=4987.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato mold leaf/black%20leaf%20mold%20%283%29.JPG_itok=u5TDHCSM.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato mold leaf/black%20leaf%20mold%20%283%29.JPG?itok=u5TDHCSM.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato mold leaf/black%20leaf%20mold%20%284%29.JPG_itok=DIIUw9JU.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato mold leaf/black%20leaf%20mold%20%284%29.JPG?itok=DIIUw9JU.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato mold leaf/latest_cb=20100723105221.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato mold leaf/latest?cb=20100723105221.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato mold leaf/tomato-leaf-mold-infection-on-a-leaf-top-and-underside-picture-id81781575_s=612x612.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato mold leaf/tomato-leaf-mold-infection-on-a-leaf-top-and-underside-picture-id81781575?s=612x612.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato mold leaf/tomato_plants_1_original.JPG_1407178095.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato mold leaf/tomato_plants_1_original.JPG?1407178095.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato Septoria leaf spot/IMG_4452_1500x1500%253E.JPG_1407883119.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato Septoria leaf spot/IMG_4452_1500x1500%253E.JPG?1407883119.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato Septoria leaf spot/TomatoDisease_IMG_2744_2016Jul01_original.JPG_1472858324.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato Septoria leaf spot/TomatoDisease_IMG_2744_2016Jul01_original.JPG?1472858324.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato leaf yellow virus/latest_cb=20100719124603.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato leaf yellow virus/latest?cb=20100719124603.jpg"
+    },
+    {
+      "image_id": "pd/train/Tomato leaf/single-a-green-leaf-of-tomato-picture-id496662675_k=6&m=496662675&s=612x612&w=0&h=6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y=.jpg",
+      "zip_member": "PlantDoc-Dataset-master/train/Tomato leaf/single-a-green-leaf-of-tomato-picture-id496662675?k=6&m=496662675&s=612x612&w=0&h=6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y=.jpg"
+    }
+  ]
+}

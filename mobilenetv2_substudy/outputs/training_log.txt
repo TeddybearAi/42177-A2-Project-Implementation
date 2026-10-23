@@ -1,0 +1,48 @@
+Downloading: "https://download.pytorch.org/models/mobilenet_v2-7ebf99e0.pth" to D:\IPPR\WorkPlace\.cache\torch\hub\checkpoints\mobilenet_v2-7ebf99e0.pth
+  0%|          | 0.00/13.6M [00:00<?, ?B/s] 50%|¨€¨€¨€¨€¨     | 6.75M/13.6M [00:00<00:00, 68.5MB/s]100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 13.6M/13.6M [00:00<00:00, 92.0MB/s]
+mobilenetv2_s0 ep00 loss 1.3949  val F1 0.8029  (82s)
+mobilenetv2_s0 ep01 loss 0.9956  val F1 0.8610  (40s)
+mobilenetv2_s0 ep02 loss 0.8813  val F1 0.9682  (61s)
+mobilenetv2_s0 ep03 loss 0.7072  val F1 0.9816  (39s)
+mobilenetv2_s0 ep04 loss 0.6632  val F1 0.9883  (42s)
+mobilenetv2_s0 ep05 loss 0.6357  val F1 0.9903  (63s)
+mobilenetv2_s0 ep06 loss 0.6234  val F1 0.9922  (65s)
+mobilenetv2_s0 ep07 loss 0.6153  val F1 0.9922  (58s)
+mobilenetv2_s0 ep08 loss 0.6080  val F1 0.9935  (39s)
+mobilenetv2_s0 ep09 loss 0.6064  val F1 0.9931  (38s)
+mobilenetv2_s0 ep10 loss 0.6031  val F1 0.9930  (43s)
+mobilenetv2_s0 ep11 loss 0.6024  val F1 0.9938  (62s)
+mobilenetv2_s0 val       macro-F1 0.9938
+mobilenetv2_s0 test      macro-F1 0.9913
+mobilenetv2_s0 external  macro-F1 0.2076
+mobilenetv2_s1 ep00 loss 1.3913  val F1 0.8180  (64s)
+mobilenetv2_s1 ep01 loss 0.9945  val F1 0.8664  (63s)
+mobilenetv2_s1 ep02 loss 0.8686  val F1 0.9655  (58s)
+mobilenetv2_s1 ep03 loss 0.7101  val F1 0.9804  (64s)
+mobilenetv2_s1 ep04 loss 0.6616  val F1 0.9891  (63s)
+mobilenetv2_s1 ep05 loss 0.6377  val F1 0.9899  (63s)
+mobilenetv2_s1 ep06 loss 0.6251  val F1 0.9912  (40s)
+mobilenetv2_s1 ep07 loss 0.6170  val F1 0.9926  (38s)
+mobilenetv2_s1 ep08 loss 0.6094  val F1 0.9932  (39s)
+mobilenetv2_s1 ep09 loss 0.6044  val F1 0.9936  (39s)
+mobilenetv2_s1 ep10 loss 0.6034  val F1 0.9947  (38s)
+mobilenetv2_s1 ep11 loss 0.6017  val F1 0.9945  (38s)
+mobilenetv2_s1 val       macro-F1 0.9947
+mobilenetv2_s1 test      macro-F1 0.9913
+mobilenetv2_s1 external  macro-F1 0.1923
+mobilenetv2_s2 ep00 loss 1.3936  val F1 0.7989  (48s)
+mobilenetv2_s2 ep01 loss 0.9902  val F1 0.8672  (38s)
+mobilenetv2_s2 ep02 loss 0.8826  val F1 0.9654  (38s)
+mobilenetv2_s2 ep03 loss 0.7127  val F1 0.9805  (38s)
+mobilenetv2_s2 ep04 loss 0.6639  val F1 0.9867  (39s)
+mobilenetv2_s2 ep05 loss 0.6393  val F1 0.9889  (38s)
+mobilenetv2_s2 ep06 loss 0.6258  val F1 0.9902  (38s)
+mobilenetv2_s2 ep07 loss 0.6182  val F1 0.9895  (38s)
+mobilenetv2_s2 ep08 loss 0.6123  val F1 0.9930  (37s)
+mobilenetv2_s2 ep09 loss 0.6060  val F1 0.9931  (37s)
+mobilenetv2_s2 ep10 loss 0.6022  val F1 0.9937  (38s)
+mobilenetv2_s2 ep11 loss 0.6018  val F1 0.9940  (37s)
+mobilenetv2_s2 val       macro-F1 0.9940
+mobilenetv2_s2 test      macro-F1 0.9921
+mobilenetv2_s2 external  macro-F1 0.1910
+exit 0

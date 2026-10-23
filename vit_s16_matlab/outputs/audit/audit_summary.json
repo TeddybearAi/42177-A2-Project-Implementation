@@ -1,0 +1,77 @@
+{
+  "generated": "2026-10-22 05:12:03 +1100",
+  "matlab": "26.2.0.3386108 (R2026b)",
+  "manifest": "D:\\UTS\\IPPR\\42177_A2_Louis_ViT\\shared\\manifest.csv",
+  "rows": 18489,
+  "partitions": {
+    "train": {
+      "found": 12174,
+      "expected": 12174
+    },
+    "val": {
+      "found": 2609,
+      "expected": 2609
+    },
+    "test": {
+      "found": 2609,
+      "expected": 2609
+    },
+    "external": {
+      "found": 1097,
+      "expected": 1097
+    }
+  },
+  "partitionCountsMatch": true,
+  "classes": [
+    "Pepper_bell_bacterial_spot",
+    "Pepper_bell_healthy",
+    "Potato_early_blight",
+    "Potato_late_blight",
+    "Tomato_bacterial_spot",
+    "Tomato_early_blight",
+    "Tomato_late_blight",
+    "Tomato_leaf_mold",
+    "Tomato_septoria_leaf_spot",
+    "Tomato_yellow_leaf_curl_virus",
+    "Tomato_mosaic_virus",
+    "Tomato_healthy"
+  ],
+  "missingFiles": 0,
+  "md5Mismatches": 0,
+  "unreadable": 0,
+  "classFolderMismatches": 0,
+  "exactDuplicateGroups": 8,
+  "duplicateGroupsAcrossPartitions": 0,
+  "duplicateGroupsAcrossDatasets": 0,
+  "images": {
+    "plantvillage": {
+      "formats": {
+        "jpg": 17391,
+        "png": 1
+      },
+      "colourTypes": {
+        "truecolor": 17392
+      },
+      "shortSideMin": 256,
+      "shortSideMedian": 256,
+      "shortSideMax": 256,
+      "upscaledToInput": 17392,
+      "shortSideBelow100": 0
+    },
+    "plantdoc": {
+      "formats": {
+        "jpg": 1096,
+        "png": 1
+      },
+      "colourTypes": {
+        "truecolor": 1097
+      },
+      "shortSideMin": 69,
+      "shortSideMedian": 531,
+      "shortSideMax": 4000,
+      "upscaledToInput": 409,
+      "shortSideBelow100": 2
+    }
+  },
+  "problemRows": 0
+}

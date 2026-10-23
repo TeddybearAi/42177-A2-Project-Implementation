@@ -1,0 +1,3 @@
+Across three prespecified training seeds, mean internal macro-F1 was 0.9975 and mean external macro-F1 was 0.2339. The mean absolute domain gap was 0.7636. These values describe the fixed shared dataset only; they do not establish field deployment reliability. Check the saved per-class reports and confusion matrices before attributing errors to a specific visual mechanism.
+
+Seed standard deviations describe training variation. Per-run percentile bootstrap intervals use 1,000 resamples of the same external images and describe test-set sampling uncertainty. No three-model superiority claim is made by this notebook.

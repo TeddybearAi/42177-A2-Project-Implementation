@@ -1,0 +1,38 @@
+----------------------------------------------------------------------
+MATLAB Version: 26.2.0.3386108 (R2026b)
+Operating System: Microsoft Windows 11 Home Version 10.0 (Build 26300)
+Java Version: Java is not loaded
+----------------------------------------------------------------------
+MATLAB                                                Version 26.2        (R2026b)
+Computer Vision Toolbox                               Version 26.2        (R2026b)
+Deep Learning Toolbox                                 Version 26.2        (R2026b)
+Image Processing Toolbox                              Version 26.2        (R2026b)
+MATLAB Compiler                                       Version 26.2        (R2026b)
+MATLAB Copilot                                        Version 26.2        (R2026b)
+Parallel Computing Toolbox                            Version 26.2        (R2026b)
+Signal Processing Toolbox                             Version 26.2        (R2026b)
+Statistics and Machine Learning Toolbox               Version 26.2        (R2026b)
+Wavelet Toolbox                                       Version 26.2        (R2026b)
+
+gpuDeviceCount = 1
+GPU: NVIDIA GeForce RTX 4060 Ti | compute 8.9 | total 8.00 GB | available 6.91 GB | driver 13.3 | toolkit 13.1
+visionTransformer small-16-imagenet-384: 143 layers, 22.20M parameters, 1000 ImageNet classes
+input layer nnet.cnn.layer.ImageInputLayer: size [384 384 3], normalization zscore
+  mean [127.5 127.5 127.5]
+  std  [127.5 127.5 127.5]
+layer named "head": 1 (nnet.cnn.layer.FullyConnectedLayer)
+   25 x nnet.cnn.layer.AdditionLayer
+   24 x nnet.cnn.layer.Convolution1DLayer
+   37 x nnet.cnn.layer.DropoutLayer
+    1 x nnet.cnn.layer.EmbeddingConcatenationLayer
+    1 x nnet.cnn.layer.FullyConnectedLayer
+    1 x nnet.cnn.layer.FunctionLayer
+   12 x nnet.cnn.layer.GELULayer
+    1 x nnet.cnn.layer.ImageInputLayer
+    1 x nnet.cnn.layer.Indexing1DLayer
+   25 x nnet.cnn.layer.LayerNormalizationLayer
+    1 x nnet.cnn.layer.PatchEmbeddingLayer
+    1 x nnet.cnn.layer.PositionEmbeddingLayer
+   12 x nnet.cnn.layer.SelfAttentionLayer
+    1 x nnet.cnn.layer.SoftmaxLayer
+last layers: cls_index -> head -> softmax -> validate_inputsize

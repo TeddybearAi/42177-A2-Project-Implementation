@@ -1,0 +1,20 @@
+# Package versions used to produce the shared results (Python 3.13, Windows 11).
+#
+# 1) Install PyTorch FIRST, matching your computer (see https://pytorch.org/get-started/locally/):
+#      NVIDIA GPU (used here, CUDA 12.8):
+#        pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cu128
+#      No NVIDIA GPU (works, but training is very slow):
+#        pip install torch==2.11.0 torchvision==0.26.0
+#    Note: plain "pip install torch" on Windows installs the CPU-only build.
+#
+# 2) Then install the rest:
+#      pip install -r requirements.txt
+#
+numpy==2.5.2
+pandas==3.0.6
+scikit-learn==1.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+pillow==12.3.0
+tabulate==0.10.0
+thop==0.1.1.post2209072238
