@@ -111,3 +111,9 @@ GMACs = multiply-accumulates per 224 × 224 image (1 MAC = 2 FLOPs).
 - **How the report treats it.** This package rebuilt its own PlantVillage split and its own PlantDoc set of 1,049 images, rather than using the shared manifest's 1,097. The group report therefore treats MobileNetV2 as a sub-study and compares it only with ResNet50 (layer4) and YOLO11s-cls re-run in this same pipeline (report Table 9, Table A5, Listings B24–B29). Its numbers are not comparable with the main tables.
 - **What is included.** The `.py` files above, `requirements.txt`, `outputs/data/` (split files), `outputs/results/` (summary tables and figures) and `outputs/training_log.txt`.
 - **What is not included.** Trained checkpoints and `preds.npz` (`outputs/runs/`), and the re-runs of the other models (`outputs/other_models/`). They are too large for GitHub, so running `run_mobilenetv2.py` here retrains from scratch.
+
+### Re-running from this archive
+
+The tracked split CSVs contain the author's original absolute Windows dataset paths. Before running on another computer, set the dataset paths in the config file and set `MNV2_OUT_DIR` to a **new, empty output directory outside this repository**. The scripts will then build fresh manifests for those paths and train new checkpoints, while leaving the archived evidence unchanged.
+
+The earlier usage section describes the author's original local package, which included checkpoints. This GitHub archive omits those checkpoints, so it trains again rather than rebuilding results from stored models. Its comparisons with other models also require the separate same-pipeline prediction files; they are not replaced by the main 1,097-image predictions.
